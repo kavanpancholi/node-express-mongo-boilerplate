@@ -1,6 +1,6 @@
 ## Node Express Mongoose Passport Boilerplate
 
-A boilerplate application for building web apps using express, mongoose and passport.
+A boilerplate application with basic CRUD for building web apps using express, mongoose and passport.
 
 ## Usage
 
@@ -9,7 +9,6 @@ A boilerplate application for building web apps using express, mongoose and pass
     $ npm install
     $ cp .env.example .env
     $ npm start
-
 
 ## License
 
